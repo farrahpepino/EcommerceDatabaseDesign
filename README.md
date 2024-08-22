@@ -19,11 +19,9 @@ The database includes the following tables:
   
 **Setup**
   To set up the database, run the following SQL script:
-    **DROP DATABASE IF EXISTS Ecommerce_DB;
+    _**DROP DATABASE IF EXISTS Ecommerce_DB;
     CREATE DATABASE Ecommerce_DB;
-    USE Ecommerce_DB;**
-    
-    _Insert the rest of the SQL script here_
+    USE Ecommerce_DB;**_
     
 **Conclusion**
 This project demonstrates a database design for an e-commerce platform, with a focus on data integrity and efficient operation.
