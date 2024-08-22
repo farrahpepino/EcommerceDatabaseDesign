@@ -20,9 +20,9 @@ The database includes the following tables:
 **Setup**
   To set up the database, run the following SQL script:
   
-    **DROP DATABASE IF EXISTS Ecommerce_DB;
+    DROP DATABASE IF EXISTS Ecommerce_DB;
     CREATE DATABASE Ecommerce_DB;
-    USE Ecommerce_DB;**
+    USE Ecommerce_DB;
    
     
 **Conclusion**
