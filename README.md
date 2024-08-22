@@ -2,20 +2,20 @@
   This project involves designing and implementing a database for an e-commerce platform. The database handles customer information, orders, payments, and shipments.
 
 **Key Features**
-  -**Normalization:** The database is normalized to reduce redundancy and ensure efficient storage.
-  -**Entity-Relationship Diagram (ERD):** An ERD was created to visualize the structure, showing entities, attributes, and their relationships.
-  -**Relational Schema:** The relational schema defines the tables, columns, data types, and relationships in the database.
+  **(1) Normalization:** The database is normalized to reduce redundancy and ensure efficient storage.
+  **(2) Entity-Relationship Diagram (ERD):** An ERD was created to visualize the structure, showing entities, attributes, and their relationships.
+  **(3) Relational Schema:** The relational schema defines the tables, columns, data types, and relationships in the database.
 
 **Database Structure**
 The database includes the following tables:
-  -**CUSTOMER:** Stores customer details.
-  -**ADDRESS:** Manages customer addresses.
-  -**CREDIT_LINE:** Tracks credit lines for customers.
-  -**PRODUCT:** Contains product details.
-  -**ORDERS:** Records customer orders.
-  -**PAYMENT:** Manages payments.
-  -**PAYMENT_METHOD:** Stores payment method details.
-  -**SHIPMENT:** Tracks shipment information.
+  **(1) CUSTOMER:** Stores customer details.
+  **(2) ADDRESS:** Manages customer addresses.
+  **(3) CREDIT_LINE:** Tracks credit lines for customers.
+  **(4) PRODUCT:** Contains product details.
+  **(5) ORDERS:** Records customer orders.
+  **(6) PAYMENT:** Manages payments.
+  **(7) PAYMENT_METHOD:** Stores payment method details.
+  **(8) SHIPMENT:** Tracks shipment information.
   
 **Setup**
   To set up the database, run the following SQL script:
