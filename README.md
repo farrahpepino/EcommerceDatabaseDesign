@@ -5,7 +5,7 @@
   **(1) Normalization:** The database is normalized to reduce redundancy and ensure efficient storage.
   **(2) Entity-Relationship Diagram (ERD):** An ERD was created to visualize the structure, showing entities, attributes, and their relationships.
   **(3) Relational Schema:** The relational schema defines the tables, columns, data types, and relationships in the database.
-  **(3) SQL Scripts and Output:** To validate relationships, SQL scripts and test data are provided.
+  **(4) Scripts and Output:** To validate relationships, SQL commands and test data are provided.
 
 **Database Structure**
 The database includes the following tables:
